@@ -10,26 +10,6 @@ Validação de login com credenciais pré-definidas.
 
 Feedback visual indicando sucesso ou falha no login.
 
-🖥️ Demonstração
-Usuário válido: samuel
-
-Senha válida: 123456
-
-Caso os dados estejam corretos, será exibida a mensagem "Login feito com sucesso!" em verde.
-
-Caso contrário, será exibida a mensagem "Login incorreto" em vermelho.
-
-📂 Estrutura do Código
-Configuração de aparência: Define o tema escuro da aplicação.
-
-Função validar_login(): Responsável por verificar se o usuário e senha estão corretos.
-
-Janela principal (CTk): Cria a interface gráfica com título e dimensões.
-
-Widgets: Labels, campos de entrada e botão de login.
-
-Feedback: Label para mostrar o resultado da tentativa de login.
-
 🚀 Como Executar
 Clone este repositório:
 
