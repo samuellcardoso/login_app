@@ -30,9 +30,9 @@ python login.py
 A aplicação abre uma janela simples com campos de usuário e senha, além de um botão de Login. O resultado da validação aparece logo abaixo.
 
 ### 🔧 Requisitos
-Python 3.8 ou superior
+- Python 3.8 ou superior
 
-Biblioteca customtkinter
+- Biblioteca customtkinter
 
 ### 📜 Licença
 Este projeto está sob a licença MIT. Sinta-se livre para usar, modificar e distribuir.
